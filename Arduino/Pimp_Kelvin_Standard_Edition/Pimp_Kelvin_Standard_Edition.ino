@@ -9,8 +9,6 @@
 // SCL          A5
 // LED          A13
 
-// Target Temperature Remove this is a Test
-
 /*
  * Libary Problem LCD Durcheinander bei Zeilen -> Behoben durch vertauschen
  */
